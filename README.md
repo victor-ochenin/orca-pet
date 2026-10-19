@@ -12,8 +12,6 @@ The character comes from the Orca ADE pet showcase sheet by [@sysCat64](https://
 4. Select the `orca.codex-pet` folder itself, not `pet.json`.
 5. Restart Orca completely. A renderer reload is not enough.
 
-Open `preview.html` in a browser to watch all nine cycles before importing. It reads `orca.codex-pet/spritesheet.png` directly and needs no server.
-
 ## Bundle layout
 
 ```
